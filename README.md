@@ -1,4 +1,10 @@
-### Hi there 👋
+### Nice to meet you!
+
+My name is Victor, a Software Engineer who's becoming more front-end than he thought possible just a year ago.
+
+- 👯 I’m looking to collaborate on open-source software projects because honestly, practically the whole world's built on top of them!
+
+[![@debaser's Holopin board](https://holopin.me/debaser)](https://holopin.io/@debaser)
 
 <!--
 **HeVictor/HeVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
